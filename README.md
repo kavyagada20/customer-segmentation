@@ -58,10 +58,31 @@ The model segments customers into meaningful groups such as:
 - High income, high spending customers  
 - Low income, low spending customers  
 - Budget-conscious customers  
-- Potential target customers  
+- Potential target customers
 
-These insights can be leveraged for **personalized marketing and business strategy optimization**.
 
----
+## 📁 Project Structure
+Customer-Segmentation/
+│
+├── Mall_Customers.csv
+├── Customer Segmentation.ipynb
+├── README.md
+└── requirements.txt
+
+## 🚀 How to Run
+```bash
+git clone https://github.com/your-username/customer-segmentation.git
+pip install -r requirements.txt
+jupyter notebook
+⚠️ Disclaimer
+This project is intended for educational purposes only and uses publicly available data.
+
+👩‍💻 Author
+Kavya Gada
+B.Tech – Artificial Intelligence & Machine Learning
+
+
+
+
 
 ## 📁 Project Structure
